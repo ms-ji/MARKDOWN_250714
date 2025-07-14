@@ -6,7 +6,7 @@ MARKDOWN_250714
 '[pcwk daum](https://cafe.daum.net/pcwk)`
 
 **같은 패이지 내의 하이퍼 링크**
-`[여기](#4-코드)`
+`[여기](# 4코드)`
 
 ### 5. 목록
 **순서 있는 목록**
@@ -56,4 +56,4 @@ public class Hello {
 더워  
 개행 : space 2개  
 
-#4-코드
+# 4코드
