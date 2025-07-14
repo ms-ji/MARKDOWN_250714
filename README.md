@@ -1,11 +1,17 @@
 # MARKDOWN_250714
 MARKDOWN_250714
 
+### 7. 강조(Emphasis)
+- Bold : **텍스트** 또는 __텍스트__
+- iteric : *텍스트* 또는 _텍스트_
+- Bold + iteric : ***텍스트*** 또는 ___텍스트___
+
+
 ### 6. 링크(Link)
 `[링크 텍스트](URL)형태로 작성 합니다.`   
 '[pcwk daum](https://cafe.daum.net/pcwk)`
 
-**같은 패이지 내의 하이퍼 링크**  
+**같은 패이지 내의 하이퍼 링크 : Commit 이후 Link생성(preview에서는 링크 안됨)**  
 [여기](#4-코드-블록)
 
 ### 5. 목록
@@ -56,4 +62,3 @@ public class Hello {
 더워  
 개행 : space 2개  
 
-#4-코드블록
