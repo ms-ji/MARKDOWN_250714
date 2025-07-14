@@ -2,7 +2,7 @@
 MARKDOWN_250714
 
 ### 8. 이미지
-`이미지 ![레이아웃](https://github.com/ms-ji/MARKDOWN_250714/blob/main/doc/layout_720.png])`
+`이미지 ![레이아웃](https://github.com/ms-ji/MARKDOWN_250714/blob/main/doc/layout_720.png)`
 
 ### 7. 강조(Emphasis)
 - Bold : **텍스트** 또는 __텍스트__
